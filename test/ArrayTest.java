@@ -3,10 +3,6 @@ import java.util.ArrayList;
 public class ArrayTest {
     public ArrayList<Double> tal;
     
-    
-    /**
-     *  Creates an arraylist with certain doubles in it.
-     */
     public ArrayTest()
     {
     	ArrayList<Double> tal = new ArrayList<>();
